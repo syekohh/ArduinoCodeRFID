@@ -2,5 +2,5 @@
     "port": "/dev/tty.usbmodem14101",
     "programmer": "AVR ISP",
     "board": "arduino:avr:uno",
-    "sketch": "main/main.ino"
+    "sketch": "ArduinoCodeRFID/ArduinoCodeRFID.ino"
 }
