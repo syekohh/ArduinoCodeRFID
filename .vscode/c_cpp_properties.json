@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "/Users/harisaljic/Downloads/Arduino.app/Contents/Java/tools/**",
+                "/Users/harisaljic/Documents/Arduino/libraries/**",
+                "/Users/harisaljic/Downloads/Arduino.app/Contents/Java/libraries/**",
+                "/Users/harisaljic/Downloads/Arduino.app/Contents/Java/hardware/tools/**",
+                "/Users/harisaljic/Downloads/Arduino.app/Contents/Java/hardware/arduino/avr/**",
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64",
+            "forcedInclude": [
+                "/Users/harisaljic/Downloads/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h"
+            ]
+        }
+    ],
+    "version": 4
+}
